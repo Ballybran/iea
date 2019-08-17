@@ -1,28 +1,16 @@
-[
-	{
-		"id": 1,
-		"titulo": "titulo exemplo",
-		"desc": "descrcao exemplo"
+{
+	"Hino": {
+		"Lista": {
+			"id":1,
+			"titulo": "saudai o nome de Jesus",
+			"letra":"bla bla bla"
+		},
 	},
-
-	{
-		"id": 2,
-		"titulo": "titulo exemplo",
-		"desc": "descrcao exemplo"
+	"Coral": {
+		"Lista": {
+			"id":1,
+			"titulo": "saudai o nome de Jesus",
+			"letra":"bla bla bla"
+		},
 	},
-	{
-		"id": 3,
-		"titulo": "titulo exemplo",
-		"desc": "descrcao exemplo"
-	},
-	{
-		"id": 4,
-		"titulo": "titulo exemplo",
-		"desc": "descrcao exemplo"
-	},
-	{
-		"id": 5,
-		"titulo": "titulo exemplo",
-		"desc": "descrcao exemplo"
-	}
-]
+}
