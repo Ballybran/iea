@@ -1,16 +1,21 @@
 {
-	"Hino": {
-		"Lista": {
-			"id":1,
-			"titulo": "saudai o nome de Jesus",
-			"letra":"bla bla bla"
-		},
-	},
-	"Coral": {
-		"Lista": {
-			"id":1,
-			"titulo": "saudai o nome de Jesus",
-			"letra":"bla bla bla"
-		},
-	},
+  "Hino": {
+    "id": 1,
+    "img": "teste/",
+    "Lista": {
+      "id": 1,
+      "titulo": "saudai o nome de Jesus",
+      "letra": "bla bla bla"
+    },
+    
+  },
+  "Coral": {
+    "Lista": {
+      "id": 1,
+      "titulo": "saudai o nome de Jesus",
+      "letra": "bla bla bla"
+    },
+    
+  },
+  
 }
