@@ -2,27 +2,27 @@
 	{
 	"id": 1,
 	"titulo": "titulo exemplo",
-	"desc": "descrcao exemplo",
+	"desc": "descrcao exemplo"
 },
 
 {
 	"id": 2,
 	"titulo": "titulo exemplo",
-	"desc": "descrcao exemplo",
-}
+	"desc": "descrcao exemplo"
+},
 {
 	"id": 3,
 	"titulo": "titulo exemplo",
-	"desc": "descrcao exemplo",
-}
+	"desc": "descrcao exemplo"
+},
 {
 	"id": 4,
 	"titulo": "titulo exemplo",
-	"desc": "descrcao exemplo",
-}
+	"desc": "descrcao exemplo"
+},
 {
 	"id": 5,
 	"titulo": "titulo exemplo",
-	"desc": "descrcao exemplo",
+	"desc": "descrcao exemplo"
 }
 ]
