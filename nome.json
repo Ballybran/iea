@@ -1,12 +1,7 @@
 [
-	{
-	"nome": "teste1",
-	},{
-	"nome": "teste2",
-	},{
-	"nome": "teste3",
-	},
-	{
-	"nome": "teste4"
-	}
+  {
+    "Hino": {
+      "nome": "teste1"
+    }
+  }
 ]
