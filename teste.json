@@ -1,0 +1,14 @@
+{  
+   "cards":[  
+      {  
+         "cardId":"<cardID>",
+         "name":"<name>",
+         "flavor":"<flavor>"
+      },
+      {  
+         "cardId":"<cardID>",
+         "name":"<name>",
+         "flavor":"<flavor>"
+      }
+   ]
+}
