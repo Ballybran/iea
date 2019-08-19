@@ -1,21 +1,22 @@
 {
-  "Hino": {
-    "id": 1,
-    "img": "teste/",
-    "Lista": {
-      "id": 1,
-      "titulo": "saudai o nome de Jesus",
-      "letra": "bla bla bla"
+  "hino": [
+    {
+      "titulo": "Teste1",
+      "letra": "ola mundo1",
+      "numero": 111,
+      "id": 1
     },
-    
-  },
-  "Coral": {
-    "Lista": {
-      "id": 1,
-      "titulo": "saudai o nome de Jesus",
-      "letra": "bla bla bla"
+    {
+      "titulo": "Teste2",
+      "letra": "ola mundo2",
+      "numero": 2222,
+      "id": 2
     },
-    
-  },
-  
+    {
+      "titulo": "Teste3",
+      "letra": "ola mundo3",
+      "numero": 3333,
+      "id": 3
+    }
+  ]
 }
